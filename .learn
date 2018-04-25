@@ -6,3 +6,4 @@ languages:
   - jQuery
 resources: 
   - 0
+parent_template: git@github.com:learn-co-curriculum/js-dom-and-events-modifying-html-readme.git
